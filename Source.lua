@@ -12,11 +12,11 @@ local Hum = Char:WaitForChild("Humanoid")
 local Root = Char:WaitForChild("HumanoidRootPart")
 
 local SelfModules = {
-    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))(),
+    Functions = loadstring(game:HttpGet("hhttps://github.com/IseeYou011011000110111101101100/DoorReplication/raw/main/Functions.lua"))(),
 }
 
 local Assets = {
-    Door = LoadCustomInstance("https://github.com/RegularVynixu/Utilities/blob/main/Doors/Door%20Replication/Door.rbxm?raw=true"),
+    Door = LoadCustomInstance("https://github.com/IseeYou011011000110111101101100/DoorReplication/blob/main/Door.rbxm?raw=true"),
 }
 
 local DoorReplication = {}
